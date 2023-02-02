@@ -1,0 +1,45 @@
+.body-row {
+  display: flex;
+  flex-direction: row;
+}
+.body-column {
+  display: flex;
+  flex-direction: row;
+}
+.head1 {
+  font-size: 15px;
+}
+.head1:hover {
+  cursor: pointer;
+}
+.paragraph {
+  font-size: 15px;
+}
+.paragraph:hover {
+  cursor: pointer;
+}
+.middle-image {
+  width: 300px;
+  height: px;
+}
+.middle-image:hover {
+  cursor: pointer;
+}
+.image1 {
+  width: 200px;
+  height: 150px;
+  margin-left: 5px;
+}
+.image2 {
+  width: 97px;
+  height: 75px;
+  margin-left: 5px;
+}
+.head-last {
+  font-size: 25px;
+  font-style: italic;
+  font-weight: 200px;
+}
+.para-last {
+  font-size: 15px;
+}

@@ -1,0 +1,50 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  margin-left: 20px;
+  text-align: center;
+}
+.div1 {
+  width: 125px;
+  height: 250px;
+  background-color: rgb(232, 232, 128);
+  margin-right: 20px;
+  padding-top: 60px;
+}
+.div2 {
+  width: 125px;
+  height: 250px;
+  background-color: lightpink;
+  margin-right: 20px;
+  padding-top: 60px;
+}
+.div3 {
+  width: 100px;
+  height: 250px;
+  background-color: lightgreen;
+  margin-right: 20px;
+  padding-top: 60px;
+}
+.div4 {
+  width: 200px;
+  height: 250px;
+  background-color: rgb(241, 207, 143);
+  margin-right: 20px;
+  padding-top: 60px;
+}
+.div5 {
+  width: 100px;
+  height: 250px;
+  background-color: lightblue;
+  margin-right: 20px;
+  padding-top: 60px;
+}
+.inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  width: 25px;
+  margin-left: 25px;
+}

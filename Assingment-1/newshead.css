@@ -1,0 +1,66 @@
+.hamburger-menu {
+  height: 24px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.header {
+  display: grid;
+  height: 100px;
+  grid-template-columns: 200px 200px 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  width: 750px;
+}
+.searc-icon {
+  height: 25px;
+  padding-top: 10px;
+}
+.hamburger-menu:hover {
+  cursor: pointer;
+}
+.searc-icon:hover {
+  cursor: pointer;
+}
+.left-secton {
+  display: flex;
+  flex-direction: column;
+}
+.para {
+  font-family: 'Times New Roman';
+  font-size: 14px;
+  margin-bottom: -15px;
+  padding-left: 5px;
+  font-weight: bold;
+}
+.para1 {
+  padding-left: 5px;
+}
+.para2 {
+  padding-left: 5px;
+  padding-left: 50px;
+  font-size: 14px;
+  margin-bottom: -15px;
+  padding-top: 50px;
+  font-weight: bold;
+}
+.image {
+  height: 60px;
+  width: 250px;
+  padding-top: 20px;
+}
+.image:hover {
+  cursor: pointer;
+}
+.right-section {
+  padding-top: 50px;
+}
+.row-container {
+  display: flex;
+  flex-direction: row;
+}
+.div {
+  margin: 2px 10px 2px 5px;
+  font-size: 14px;
+}

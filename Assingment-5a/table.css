@@ -1,0 +1,23 @@
+.table {
+  border: 2px solid black;
+  width: 500px;
+  height: 90px;
+  border-collapse: collapse;
+}
+.table-inside {
+  border: 1px solid black;
+  width: 150px;
+  border-collapse: collapse;
+}
+.table2 {
+  border: 1px solid black;
+  width: 150px;
+  height: 70px;
+  border-collapse: collapse;
+}
+.table2 {
+  border: 1px solid black;
+  width: 75px;
+  height: 70px;
+  border-collapse: collapse;
+}
